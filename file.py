@@ -2,3 +2,4 @@
 
 print("from manager V1")
 
+print("from worker V2")
